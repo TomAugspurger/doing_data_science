@@ -1,0 +1,10 @@
+# keys
+
+.nytimes_key
+
+# datasets
+dds_datasets
+
+# editor
+*.swp
+*~
