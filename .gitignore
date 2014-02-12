@@ -8,3 +8,6 @@ dds_datasets
 # editor
 *.swp
 *~
+
+# misc
+.ipynb_checkpoints/
